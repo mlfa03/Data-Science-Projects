@@ -1,5 +1,7 @@
-# Kaggle_projects
-Projects done using kaggle datasets.
+## Data Science Projects
+My data science projects in Python. 
 
-### Healthcare
-[Novel Corona Virus 2019 Dataset]
+* ###[Health Data]( )
+* ###[Fintech]( )
+* ###[Marketing]( )
+
