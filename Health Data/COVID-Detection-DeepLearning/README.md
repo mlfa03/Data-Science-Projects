@@ -1,6 +1,6 @@
 # COVID Detection with Deep Learning 
 
-###Objective
+### Objective
 
 To detect COVID-19 using AI using several images from X-rays. Tensor Flow and OpenCV will be used in this project. 
 
