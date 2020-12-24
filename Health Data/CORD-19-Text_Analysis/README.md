@@ -1,5 +1,7 @@
 # COVID-19 Open Research Dataset Challenge (CORD-19)
 
+Link to kaggle solution (*ongoing*): [Covid Studies Analysis](https://www.kaggle.com/marianaalm/covid-text-analysis)
+
 #### Motivation
 Make it easier for healthcare professionals to have access to information published in studies about COVID-19.
 
