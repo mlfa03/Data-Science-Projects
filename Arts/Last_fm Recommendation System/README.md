@@ -1,6 +1,6 @@
 ## Last FM Recommendation System
 
-#### Description 
+### Description 
 
 This project aims to create a recommendation system in PySpark using data from Last fm users. The dataset considered in the study was the [Last-FM 360K Dataset](http://ocelma.net/MusicRecommendationDataset/index.html)
  which contains data on 360K users, comprising the following information:
@@ -12,3 +12,11 @@ This project aims to create a recommendation system in PySpark using data from L
  ### Motivation
  
  Recommendation systems are everywhere. The great challenges around this type of system is the amount of data you use to build them. This project is an opportunity to train my knowledge on how to use PySpark to analyse and build machine learning models on large datasets.  
+ 
+ ### Activities
+ 
+ The project comprises the following steps:
+ * Installing PySpark on google colab environment
+ * Analysing data from the datasets 
+ * Transforming the data for the machine learning model
+ * Implementation of ALS Algorithm to recommend 5 artists for each user 
