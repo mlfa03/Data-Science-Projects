@@ -15,5 +15,5 @@ The data source is the Brazilian Open Data Portal, links below in Portuguese:
 Data is visualized using Matplotlib, Seaborn and Plotly. The plots generated with plotly were published online on the Datapane platform. 
 
 There are two medium posts on this project:
-- [Post in Portuguese]()
+- [Post in Portuguese](https://marianaalm.medium.com/como-o-brasil-distribuiu-insumos-para-o-covid-publicando-uma-eda-com-datapane-66810828c5f8)
 - [Post in English]
