@@ -16,4 +16,4 @@ Data is visualized using Matplotlib, Seaborn and Plotly. The plots generated wit
 
 There are two medium posts on this project:
 - [Post in Portuguese](https://marianaalm.medium.com/como-o-brasil-distribuiu-insumos-para-o-covid-publicando-uma-eda-com-datapane-66810828c5f8)
-- [Post in English]
+- [Post in English](https://marianaalm.medium.com/an-eda-of-the-distribution-of-supplies-for-covid-19-in-brazil-f0f578ba2b82)
